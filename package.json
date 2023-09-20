@@ -22,7 +22,7 @@
     "contentlayer": "^0.3.4",
     "framer-motion": "^10.16.0",
     "lucide-react": "^0.279.0",
-    "next": "13.4.19",
+    "next": "13.5.2",
     "next-contentlayer": "^0.3.4",
     "next-docs-ui": "^2.0.2",
     "next-docs-zeta": "^2.0.2",
